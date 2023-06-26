@@ -52,3 +52,6 @@ Support
 -------
 This work was supported by the DEMON project (PID2021-123457OB-C21) and the INTERACT project (PID2020-114623RB-C31) funded by the Spanish Ministerio de Ciencia e Innovación; the Agencia Estatal de Investigación (10.13039/501100011033); and the European Regional Development Fund, EU. This work also acknowledges the ‘‘Severo Ochoa Centre of Excellence’’ accreditation (CEX2019-000928-S). This work is moreover a contribution to [CSIC PTI Teledetect](https://pti-teledetect.csic.es/).
 
+DOI
+-------
+[![DOI](https://zenodo.org/badge/657566970.svg)](https://zenodo.org/badge/latestdoi/657566970)
