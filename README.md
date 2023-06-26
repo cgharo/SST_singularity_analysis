@@ -34,8 +34,6 @@ Status
 Code
 ----
 The analysis for this paper has been performed on ICM's computing cluster, *Gaia*. We first compute the singularity exponents of 5 different SST products using the algorithm proposed by [Pont et al. (2013)](https://www.tandfonline.com/doi/abs/10.1080/00207160.2012.748895). Once the computations are performed on *Gaia*, the output files are saved in netCDF4 and  are publicably available at [DigitalCSIC](https://digital.csic.es/handle/10261/309548).
-two small pieces of code developed by the first author and available on github:  [llctools](https://github.com/crocha700/llctools) and [pyspec](https://github.com/pyspec/pyspec). Those codes leverage on the [Scientific
-ython stack](https://www.scipy.org/install.html). Specific processing and plotting codes are available on Jupyter [notebooks](https://github.com/crocha700/UpperOceanSeasonality/blob/master/notebooks/index.ipynb).
 
 
 
